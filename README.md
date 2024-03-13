@@ -1,0 +1,1 @@
+This project implements a real-time chat application API using a microservices architecture. The API Gateway serves as the entry point, routing requests to individual microservices. Each microservice is responsible for a specific functionality, promoting modularity and scalability.
